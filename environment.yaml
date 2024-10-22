@@ -1,0 +1,4 @@
+name: ivclabenv
+channels:
+  - defaults
+prefix: C:\Users\burak\miniconda3\envs\ivclabenv

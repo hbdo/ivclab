@@ -1,0 +1,7 @@
+numpy
+pillow
+matplotlib
+einops
+scipy
+constriction
+jupyter
